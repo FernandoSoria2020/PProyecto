@@ -1,3 +1,3 @@
 # PProyecto
 Probando proyecto
-Prime rproyecto en git
+Primer proyecto en git
